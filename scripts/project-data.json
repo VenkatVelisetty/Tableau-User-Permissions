@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "DataLab",
-      "name": "DT new Extract1V",
+      "name": "Superintendent Scorecard Dashboards updated testV1",
       "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
-      "file_path": "DT new Extract.twbx",
+      "file_path": "Superintendent Scorecard Dashboards updated testV1.twbx",
       "project_path": "Test1",
       "tags": ["profit", "sale"],
       "hidden_views": [""],
