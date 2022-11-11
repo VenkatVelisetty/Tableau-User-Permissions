@@ -1,0 +1,40 @@
+{
+  "workbooks": [
+    {
+      "server_url": "https://tableau.devinvh.com/",
+      "site_name": "DataLab",
+      "name": "DT new Extract1V",
+      "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
+      "file_path": "DT new Extract.twbx",
+      "project_path": "Test1",
+      "tags": ["profit", "sale"],
+      "hidden_views": [""],
+      "show_tabs": true,
+      "is_site_default": false,
+      "permissions": [
+        {
+          "permission_group_name": "All Users",
+          "permission_user_name": "",
+          "permission_template": {
+            "Read": "Allow",
+            "Filter": "Allow",
+            "ViewComments": "Allow",
+            "AddComment": "Allow",
+            "ExportImage": "Allow",
+            "ExportData": "Allow",
+            "RunExplainData": "Allow",
+            "ShareView": "Allow",
+            "ViewUnderlyingData": "Deny",                    
+            "WebAuthoring": "Deny",
+            "ExportXml": "Deny",
+            "Write": "Deny",
+            "CreateRefreshMetrics": "Deny",
+            "ChangeHierarchy": "Deny",
+            "Delete": "Deny",
+            "ChangePermissions": "Deny"
+        }
+        }
+      ]
+    }    
+  ]
+}
